@@ -48,7 +48,7 @@ Hyperscale Computing covers the ability to seamlessly establish and revise compu
 
 8. "Streaming Architecture: New Designs Using Apache Kafka and MapR Streams" by Ted Dunning and Ellen Friedman
 
-9. "Data Stream Development with Apache Flink" by Fabian Hueske and Vasiliki Kalavri
+9. "Stream Development with Apache Flink" by Fabian Hueske and Vasiliki Kalavri
 
 10. "Big Data: Principles and best practices of scalable realtime data systems" by Nathan Marz and James Warren
 
