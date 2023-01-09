@@ -34,22 +34,20 @@ Hyperscale Computing covers the ability to seamlessly establish and revise compu
 
 1. "Hadoop: The Definitive Guide" by Tom White
 
-2. "Spark: The Definitive Guide" by Matei Zaharia, Bill Chambers, and Sean Owen
+2. "Spark: The Definitive Guide" by Bill Chambers and Matei Zaharia
 
-3. "Flink in Action" by Fabian Hueske and Vasiliki Kalavri
+3. "Flink in Action" by Sameer B. Wadkar and Hari Rajaram
 
-4. "Storm Blueprints: Patterns for Distributed Real-time Computation" by Aniket Mokashi and Ravi Kumar
+4. "Storm Blueprints: Patterns for Distributed Real-time Computation" by P. Taylor Goetz and Brian O'Neill
 
-5. "Stream Processing with Apache Samza" by Jacob Le Grange
+5. "Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing" by Tyler Akidau, Slava Chernyak, and Reuven Lax
 
-6. "Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing" by Tyler Akidau, Slava Chernyak, and Reuven Lax
+6. "Real-Time Analytics: Techniques to Analyze and Visualize Streaming Data" by Vijay Srinivas Agneeswaran and Brian O'Neill
 
-7. "Real-Time Analytics: Techniques to Analyze and Visualize Streaming Data" by Vijay Srinivas Agneeswaran and Brian O'Neill
+7. "Streaming Architecture: New Designs Using Apache Kafka and MapR Streams" by Ted Dunning and Ellen Friedman
 
-8. "Streaming Architecture: New Designs Using Apache Kafka and MapR Streams" by Ted Dunning and Ellen Friedman
+8. "Stream Development with Apache Flink" by Fabian Hueske and Vasiliki Kalavri
 
-9. "Stream Development with Apache Flink" by Fabian Hueske and Vasiliki Kalavri
-
-10. "Big Data: Principles and best practices of scalable realtime data systems" by Nathan Marz and James Warren
+9. "Big Data: Principles and best practices of scalable realtime data systems" by Nathan Marz and James Warren
 
 ## Tools
