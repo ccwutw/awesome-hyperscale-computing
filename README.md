@@ -10,6 +10,26 @@ Hyperscale Computing covers the ability to seamlessly establish and revise compu
 
 ## Frameworks
 
+1. Hadoop: An open-source framework for distributed storage and processing of large datasets using the MapReduce programming model.
+
+2. Spark: An open-source, distributed computing system that can process large amounts of data quickly.
+
+3. Flink: An open-source, distributed streaming platform for data processing.
+
+4. Storm: An open-source, distributed real-time computation system.
+
+5. Samza: An open-source, distributed stream processing framework.
+
+6. Heron: An open-source, distributed stream processing system developed by Twitter.
+
+7. Apex: An open-source, distributed streaming platform for big data processing.
+
+8. Flume: An open-source, distributed system for collecting, aggregating, and moving large amounts of log data.
+
+9. Kafka: An open-source, distributed streaming platform for building real-time data pipelines and streaming applications.
+
+10. Beam: An open-source, unified programming model for batch and streaming data processing, developed by Google.
+
 ## Books
 
 ## Tools
